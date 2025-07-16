@@ -1,0 +1,10 @@
+{
+  "extends": "@youtube-memo-app/typescript-config/node.json",
+  "compilerOptions": {
+    "rootDir": "./src",
+    "outDir": "./dist"
+  },
+  "include": [
+    "src/**/*"
+  ]
+}
